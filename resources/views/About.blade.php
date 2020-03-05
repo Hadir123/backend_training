@@ -1,5 +1,6 @@
 @extends('layout2')
 @section('content2')
+<!--Test Commit -->
 <div id="wrapper">
 	<div id="page" class="container">
 		<div id="content">
